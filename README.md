@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -45,8 +43,8 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=github-dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=viraj-samaranayake&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=viraj-samaranayake&theme=github-dark" />
 </p>
 
 ---
@@ -57,7 +55,7 @@ Here are some ideas to get you started:
   <a href="https://x.com/Viraj_sa" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://wa.me/1234567890" target="_blank">
+  <a href="https://wa.me/+94714823155" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://github.com/viraj-samaranayake" target="_blank">
