@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Software Engineer...</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;Open-source%20Contributor;Tech%20Enthusiast&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Open-source%20Contributor;Tech%20Enthusiast&center=true&width=380&height=45">
 </p>
 
-- 🌱 I’m currently learning **[Tech/Framework]**
-- 👯 I’m looking to collaborate on **[Project/Area]**
-- 💬 Ask me about **[Tech Stack]**
+- 🌱 I’m currently learning **[Python]**
+- 👯 I’m looking to collaborate on **[AI projects]**
+- 💬 Ask me about **[Java/Python]**
 - 📫 How to reach me: **[samaranayakeviraj@gmail.com]**
-- ⚡ Fun fact: **[Short fun fact]**
+- ⚡ Fun fact: **[vibe coding😎]**
 
 ---
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ---
 
 ### 📊 GitHub Stats
@@ -50,11 +50,17 @@ Here are some ideas to get you started:
 ### 🌐 Connect with me
 
 <p align="left">
+  <a href="https://x.com/Viraj_sa" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://wa.me/1234567890" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://github.com/viraj-samaranayake" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/virajsamaranayake" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter">
   </a>
   <a href="mailto:samaranayakeviraj@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
