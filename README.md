@@ -22,9 +22,9 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20QA%20Engineer;Tech%20Enthusiast;Problem%20Solver&center=true&width=380&height=45">
 </p>
 
-- 🌱 I’m currently learning **[Python]**
-- 👯 I’m looking to collaborate on **[AI projects]**
-- 💬 Ask me about **[Java/Python]**
+- 🌱 Graduate in BSc(Hons) SE
+- 👯 I’m looking to **[solve problems]**
+- 💬 Ask me about **[Java]**
 - 📫 How to reach me: **[samaranayakeviraj@gmail.com]**
 - ⚡ Fun fact: **[vibe coding😎]**
 
