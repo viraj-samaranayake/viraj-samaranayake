@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20QA%20Engineer;Tech%20Enthusiast;Problem%20Solver&center=true&width=380&height=45">
 </p>
 
-- 🌱 Graduate in BSc(Hons) SE
+- 🌱 Graduate in **BSc(Hons) SE**
 - 👯 I’m looking to **solve problems**
 - 💬 Ask me about **Java**
 - 📫 How to reach me: **samaranayakeviraj@gmail.com**
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with me👇
 
 <p align="left">
   <a href="https://github.com/viraj-samaranayake" target="_blank">
