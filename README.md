@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 </p>
 
 - 🌱 Graduate in BSc(Hons) SE
-- 👯 I’m looking to **[solve problems]**
-- 💬 Ask me about **[Java]**
-- 📫 How to reach me: **[samaranayakeviraj@gmail.com]**
-- ⚡ Fun fact: **[vibe coding😎]**
+- 👯 I’m looking to **solve problems**
+- 💬 Ask me about **Java**
+- 📫 How to reach me: **samaranayakeviraj@gmail.com**
+- ⚡ Fun fact: **vibe coding😎**
 
 ---
 
